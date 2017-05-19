@@ -1,0 +1,42 @@
+    #top{
+
+	 	background-image: url("http://10.90.90.40/htmlassignment/assets/images/keyboard.jpg");
+	 	width:1520px;
+	 	height:100px;
+
+	 	padding-top: 50px;
+	 	line-height: 10px;
+	 	padding-bottom: 10px;
+	 }
+	 #top p{
+
+	 	text-align: center;
+	 	font-size: 40px;
+	 	color:white;
+	 	padding-bottom: 3px;
+	 	line-height: 10px;
+	 }
+	 #top h3{
+	 	text-align: center;
+        color:white;
+	 }
+	 #div1{
+		margin-top: 30px;
+		padding-left:300px;
+		background-color: white;
+
+	 }
+	 #div2{
+
+		margin-top: 30px;
+		padding-left: 300px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: #ff0083;
+		color: white;
+	 }
+
+	 #div3 {
+		padding-left: 300px;
+
+	}
